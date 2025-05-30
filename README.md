@@ -44,8 +44,7 @@ This project analyzes global video game sales data to uncover patterns and trend
 ## How to Use
 
 1.  Clone the repository:
-2.  Navigate to the project directory: `cd Global-Video-Game-Sales-Analysis
-`
+2.  Navigate to the project directory: `cd Global-Video-Game-Sales-Analysis'
 3.  Ensure you have Jupyter Notebook installed.
 4.  Open the `games.ipynb` notebook to view the analysis.
 
